@@ -7,3 +7,4 @@ dist/
 node_modules/
 .venv/
 .cache/
+.pytest_cache/
