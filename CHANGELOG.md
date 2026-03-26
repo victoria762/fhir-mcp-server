@@ -17,3 +17,4 @@
 - fix: add a note about the defaults
 - docs: fix a small wording issue
 - fix: link the usage section
+- fix: link the usage section
